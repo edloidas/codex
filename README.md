@@ -3,10 +3,10 @@ codex
 
 > Good and bad practices from life experience.
 
-# Content:
+# Content
 
-1. [Introduction](#Introduction) — few words about the Codex.
-2. [Naming](#Naming) — a section about naming stuff.
+1. [Introduction](#introduction) — few words about the Codex.
+2. [Naming](#naming) — a section about naming stuff.
 
 # Introduction
 
